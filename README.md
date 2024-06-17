@@ -1,2 +1,2 @@
-# testrepo
-test repo validation access to sap studio
+# sapcoerepo
+sap coe repository
